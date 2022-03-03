@@ -1,5 +1,10 @@
 # ``bind blackdoor into apk/exe file``
 
+**requirements**
+- os linux
+- metasploit
+- java
+
 ```python
 pip install kmy-venom
 ```
