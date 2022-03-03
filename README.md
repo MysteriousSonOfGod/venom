@@ -1,4 +1,4 @@
-# ``bind blackdoor into apk/exe file without error``
+# ``bind blackdoor into apk/exe file``
 
 ```python
 pip install kmy-venom
