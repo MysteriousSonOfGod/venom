@@ -151,8 +151,5 @@ def main():
                         ld.show(main())
                     except:
                         print(bf.txtclr('ERR','red',font='fancy136'))
-                    break
-                else:
-                    print(bf.txtclr(f'Tidak ada versi {vrsion}!','blue',font='fancy115'))
-                    break
+                else:pass
     else:pass
