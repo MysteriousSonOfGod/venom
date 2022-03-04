@@ -3,7 +3,6 @@
 **requirements**
 - os linux
 - metasploit
-- java
 
 [https://pypi.org/project/kmy-venom/](https://pypi.org/project/kmy-venom/)
 
